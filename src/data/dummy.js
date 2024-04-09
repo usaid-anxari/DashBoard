@@ -214,7 +214,7 @@ export const areaCustomSeries = [
     dataSource: areaChartData[0],
     xName: 'x',
     yName: 'y',
-    name: 'USA',
+    name: 'Afghanistan',
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
@@ -233,7 +233,7 @@ export const areaCustomSeries = [
     dataSource: areaChartData[2],
     xName: 'x',
     yName: 'y',
-    name: 'Germany',
+    name: 'Turkey',
     opacity: '0.8',
     type: 'SplineArea',
     width: '2',
@@ -242,17 +242,17 @@ export const areaCustomSeries = [
 
 export const barChartData = [
   [
-    { x: 'USA', y: 46 },
+    { x: 'Afghanistan', y: 46 },
     { x: 'GBR', y: 27 },
     { x: 'CHN', y: 26 },
   ],
   [
-    { x: 'USA', y: 37 },
+    { x: 'Afghanistan', y: 37 },
     { x: 'GBR', y: 23 },
     { x: 'CHN', y: 18 },
   ],
   [
-    { x: 'USA', y: 38 },
+    { x: 'Afghanistan', y: 38 },
     { x: 'GBR', y: 17 },
     { x: 'CHN', y: 26 },
   ],
@@ -931,7 +931,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1002,
@@ -946,7 +946,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1003,
@@ -960,7 +960,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1004,
@@ -974,7 +974,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1005,
@@ -988,7 +988,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1006,
@@ -1001,7 +1001,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1007,
@@ -1016,7 +1016,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1008,
@@ -1030,7 +1030,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1009,
@@ -1044,7 +1044,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1010,
@@ -1058,7 +1058,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1011,
@@ -1071,7 +1071,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1012,
@@ -1086,7 +1086,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1013,
@@ -1100,7 +1100,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1014,
@@ -1114,7 +1114,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1015,
@@ -1128,7 +1128,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1016,
@@ -1141,7 +1141,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1017,
@@ -1156,7 +1156,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1018,
@@ -1170,7 +1170,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1019,
@@ -1184,7 +1184,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1020,
@@ -1198,7 +1198,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1021,
@@ -1211,7 +1211,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1022,
@@ -1226,7 +1226,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1023,
@@ -1240,7 +1240,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1024,
@@ -1254,7 +1254,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1025,
@@ -1268,7 +1268,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1026,
@@ -1281,7 +1281,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1027,
@@ -1296,7 +1296,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1028,
@@ -1310,7 +1310,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1029,
@@ -1324,7 +1324,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1030,
@@ -1338,7 +1338,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1031,
@@ -1351,7 +1351,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1032,
@@ -1366,7 +1366,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1033,
@@ -1380,7 +1380,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1034,
@@ -1394,7 +1394,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1035,
@@ -1408,7 +1408,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1036,
@@ -1421,7 +1421,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '40',
     Budget: '$2.4k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1037,
@@ -1436,7 +1436,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '11',
     Budget: '$3.9k',
-    Location: 'India',
+    Location: 'Pakistan',
   },
   {
     CustomerID: 1038,
@@ -1450,7 +1450,7 @@ export const customersData = [
     StatusBg: '#FEC90F',
     Weeks: '19',
     Budget: '$24.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1039,
@@ -1463,7 +1463,7 @@ export const customersData = [
     StatusBg: '#8BE78B',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
   {
     CustomerID: 1040,
@@ -1476,7 +1476,7 @@ export const customersData = [
     StatusBg: 'red',
     Weeks: '34',
     Budget: '$16.5k',
-    Location: 'USA',
+    Location: 'Afghanistan',
   },
 
 ];
@@ -1487,7 +1487,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar3,
@@ -1497,7 +1497,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1507,7 +1507,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1517,7 +1517,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1527,7 +1527,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1537,7 +1537,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1547,7 +1547,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1557,7 +1557,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1568,7 +1568,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1578,7 +1578,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1588,7 +1588,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1598,7 +1598,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1608,7 +1608,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1618,7 +1618,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1628,7 +1628,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar,
@@ -1638,7 +1638,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1648,7 +1648,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1658,7 +1658,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1668,7 +1668,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1678,7 +1678,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1688,7 +1688,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1698,7 +1698,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1709,7 +1709,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1719,7 +1719,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1729,7 +1729,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1739,7 +1739,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1749,7 +1749,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1759,7 +1759,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1769,7 +1769,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1780,7 +1780,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1790,7 +1790,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1800,7 +1800,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1810,7 +1810,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1820,7 +1820,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1830,7 +1830,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1840,7 +1840,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1851,7 +1851,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1861,7 +1861,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1871,7 +1871,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1881,7 +1881,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1891,7 +1891,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1901,7 +1901,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1911,7 +1911,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1922,7 +1922,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -1932,7 +1932,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -1942,7 +1942,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1952,7 +1952,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1962,7 +1962,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -1972,7 +1972,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -1982,7 +1982,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -1993,7 +1993,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -2003,7 +2003,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -2013,7 +2013,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2023,7 +2023,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2033,7 +2033,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2043,7 +2043,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2053,7 +2053,7 @@ export const employeesData = [
     Name: 'Nancy Davolio',
     Title: 'Sales Representative',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
     avatar2,
@@ -2064,7 +2064,7 @@ export const employeesData = [
     Name: 'Nasimiyu Danai',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar3,
@@ -2074,7 +2074,7 @@ export const employeesData = [
     Name: 'Iulia Albu',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar4,
@@ -2084,7 +2084,7 @@ export const employeesData = [
     Name: 'Siegbert Gottfried',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2094,7 +2094,7 @@ export const employeesData = [
     Name: 'Omar Darobe',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2104,7 +2104,7 @@ export const employeesData = [
     Name: 'Penjani Inyene',
     Title: 'Marketing Head',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar,
@@ -2114,7 +2114,7 @@ export const employeesData = [
     Name: 'Miron Vitold',
     Title: 'HR',
     HireDate: '01/02/2021',
-    Country: 'USA',
+    Country: 'Afghanistan',
     ReportsTo: 'Carson',
     EmployeeImage:
       avatar2,
@@ -2128,7 +2128,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2161,7 +2161,7 @@ export const ordersData = [
     CustomerName: 'Anika Viseer',
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
-    Location: 'Germany',
+    Location: 'Turkey',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2183,7 +2183,7 @@ export const ordersData = [
     CustomerName: 'Omar Darobe',
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2194,7 +2194,7 @@ export const ordersData = [
     CustomerName: 'Lulia albu',
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2205,7 +2205,7 @@ export const ordersData = [
     CustomerName: 'Penjani',
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2216,7 +2216,7 @@ export const ordersData = [
     CustomerName: 'Jie Yan',
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2227,7 +2227,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2238,7 +2238,7 @@ export const ordersData = [
     CustomerName: 'Miron',
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2260,7 +2260,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2272,7 +2272,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2305,7 +2305,7 @@ export const ordersData = [
     CustomerName: 'Anika Viseer',
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
-    Location: 'Germany',
+    Location: 'Turkey',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2327,7 +2327,7 @@ export const ordersData = [
     CustomerName: 'Omar Darobe',
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2338,7 +2338,7 @@ export const ordersData = [
     CustomerName: 'Lulia albu',
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2349,7 +2349,7 @@ export const ordersData = [
     CustomerName: 'Penjani',
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2360,7 +2360,7 @@ export const ordersData = [
     CustomerName: 'Jie Yan',
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2371,7 +2371,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2382,7 +2382,7 @@ export const ordersData = [
     CustomerName: 'Miron',
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2404,7 +2404,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2416,7 +2416,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2449,7 +2449,7 @@ export const ordersData = [
     CustomerName: 'Anika Viseer',
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
-    Location: 'Germany',
+    Location: 'Turkey',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2471,7 +2471,7 @@ export const ordersData = [
     CustomerName: 'Omar Darobe',
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2482,7 +2482,7 @@ export const ordersData = [
     CustomerName: 'Lulia albu',
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2493,7 +2493,7 @@ export const ordersData = [
     CustomerName: 'Penjani',
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2504,7 +2504,7 @@ export const ordersData = [
     CustomerName: 'Jie Yan',
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2515,7 +2515,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2526,7 +2526,7 @@ export const ordersData = [
     CustomerName: 'Miron',
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2548,7 +2548,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2560,7 +2560,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2593,7 +2593,7 @@ export const ordersData = [
     CustomerName: 'Anika Viseer',
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
-    Location: 'Germany',
+    Location: 'Turkey',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2615,7 +2615,7 @@ export const ordersData = [
     CustomerName: 'Omar Darobe',
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2626,7 +2626,7 @@ export const ordersData = [
     CustomerName: 'Lulia albu',
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2637,7 +2637,7 @@ export const ordersData = [
     CustomerName: 'Penjani',
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2648,7 +2648,7 @@ export const ordersData = [
     CustomerName: 'Jie Yan',
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2659,7 +2659,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2670,7 +2670,7 @@ export const ordersData = [
     CustomerName: 'Miron',
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2692,7 +2692,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2704,7 +2704,7 @@ export const ordersData = [
 
     TotalAmount: 32.38,
     OrderItems: 'Fresh Tomato',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2737,7 +2737,7 @@ export const ordersData = [
     CustomerName: 'Anika Viseer',
     TotalAmount: 93.31,
     OrderItems: 'Night Lamp',
-    Location: 'Germany',
+    Location: 'Turkey',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2759,7 +2759,7 @@ export const ordersData = [
     CustomerName: 'Omar Darobe',
     TotalAmount: 95.99,
     OrderItems: 'Makeup Lancome Rouge',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2770,7 +2770,7 @@ export const ordersData = [
     CustomerName: 'Lulia albu',
     TotalAmount: 17.99,
     OrderItems: 'Skincare',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2781,7 +2781,7 @@ export const ordersData = [
     CustomerName: 'Penjani',
     TotalAmount: 59.99,
     OrderItems: 'Headphone',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'complete',
     StatusBg: '#8BE78B',
     ProductImage:
@@ -2792,7 +2792,7 @@ export const ordersData = [
     CustomerName: 'Jie Yan',
     TotalAmount: 87.99,
     OrderItems: 'Shoes',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'pending',
     StatusBg: '#FB9678',
     ProductImage:
@@ -2803,7 +2803,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -2814,7 +2814,7 @@ export const ordersData = [
     CustomerName: 'Miron',
     TotalAmount: 87.99,
     OrderItems: 'Ice Cream',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'active',
     StatusBg: '#03C9D7',
     ProductImage:
@@ -2836,7 +2836,7 @@ export const ordersData = [
     CustomerName: 'Danai',
     TotalAmount: 122.99,
     OrderItems: 'Watch',
-    Location: 'USA',
+    Location: 'Afghanistan',
     Status: 'canceled',
     StatusBg: '#FF5C8E',
     ProductImage:
@@ -3095,7 +3095,7 @@ export const lineCustomSeries = [
   { dataSource: lineChartData[0],
     xName: 'x',
     yName: 'y',
-    name: 'Germany',
+    name: 'Turkey',
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line' },
@@ -3103,7 +3103,7 @@ export const lineCustomSeries = [
   { dataSource: lineChartData[1],
     xName: 'x',
     yName: 'y',
-    name: 'England',
+    name: 'Palestine',
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line' },
@@ -3111,7 +3111,7 @@ export const lineCustomSeries = [
   { dataSource: lineChartData[2],
     xName: 'x',
     yName: 'y',
-    name: 'India',
+    name: 'Pakistan',
     width: '2',
     marker: { visible: true, width: 10, height: 10 },
     type: 'Line' },
