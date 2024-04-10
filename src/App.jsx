@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { FiSettings } from "react-icons/fi";
@@ -17,7 +17,6 @@ import {
   Bar,
   Pie,
   Financial,
-  ColorPicker,
   Line,
   ColorMapping,
   Editor,
@@ -26,6 +25,8 @@ import { useStateContext } from "./Context/ContextProvider";
 
 const App = () => {
   const { activeMenu, themeSettings,setThemeSettings,currentColor,currentMode } = useStateContext();
+
+
   return (
     <div className={currentMode === 'Dark' ? 'dark ' : ''}>
       <BrowserRouter>
@@ -71,7 +72,7 @@ const App = () => {
                 <Route path="/kanban" element={<Kanban />} />
                 <Route path="/editor" element={<Editor />} />
                 <Route path="/calendar" element={<Calendar />} />
-                <Route path="/color-picker" element={<ColorPicker />} />
+                {/* <Route path="/color-picker" element={<ColorPicker />} /> */}
                 {/* Charts */}
                 <Route path="/pie" element={<Pie />} />
                 <Route path="/bar" element={<Bar />} />
@@ -82,6 +83,7 @@ const App = () => {
                 <Route path="/financial" element={<Financial />} />
                 <Route path="/color-mapping" element={<ColorMapping />} />
               </Routes>
+      <Footer />
             </div>
           </div>
         </div>

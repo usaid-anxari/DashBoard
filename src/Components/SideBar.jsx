@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import { SiShopware } from "react-icons/si";
+import { PiReadCvLogoLight } from "react-icons/pi";
 import { MdOutlineCancel } from "react-icons/md";
 import { TooltipComponent } from "@syncfusion/ej2-react-popups";
 import { links } from "../data/dummy";
@@ -13,9 +13,10 @@ const SideBar = () => {
   // Close Button Function
   const handleCloseButton =()=>{
     if (activeMenu && screenSize <= 900) {
-       setActiveMenu(false   )
+       setActiveMenu(false)
     }
   } 
+
   return (
     <div
       className="ml-3 h-screen 
@@ -29,8 +30,8 @@ const SideBar = () => {
               onClick={handleCloseButton}
               className="items-center gap-3 ml-3 mt-4 flex text-xl font-extrabold
             tracking-tight dark:text-white text-slate-900">
-              <SiShopware />
-              <span>Shoppy</span>
+              <PiReadCvLogoLight />
+              <span>Tana Bana</span>
             </Link>
             <TooltipComponent content="Menu" position="BottomCenter">
               <button
